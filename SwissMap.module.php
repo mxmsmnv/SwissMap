@@ -8,7 +8,7 @@
  *   - 'svg'     — self-contained SVG, zero external requests, GDPR-safe (default)
  *   - 'leaflet' — interactive Leaflet map with official swisstopo tiles (CH servers, CC BY 4.0)
  *
- * @author  Maxim Semenov <maxim@smnv.org>
+ * @author  Maxim Semenov <maxim@smnv.org> (smnv.org)
  * @link    https://github.com/mxmsmnv/SwissMap
  * @license MIT
  *
