@@ -5,6 +5,8 @@ Privacy-friendly map of Switzerland with LV95 coordinate markers.
 
 GitHub: https://github.com/mxmsmnv/SwissMap
 
+![SwissMap](assets/SwissMap.png)
+
 **Author:** Maxim Semenov  
 **Website:** [smnv.org](https://smnv.org)  
 **Email:** [maxim@smnv.org](mailto:maxim@smnv.org)
